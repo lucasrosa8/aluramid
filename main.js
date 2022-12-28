@@ -37,6 +37,8 @@ for (let contador = 0; contador < ListaDeTeclas.length; contador++) {
     tecla.onkeyup = function () {
         tecla.classList.remove('ativa');
     }
+
+    
 }
 
 
